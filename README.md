@@ -21,7 +21,7 @@ HTTPxray-Mini is a carefully crafted, single-file demonstration that captures th
 
 ```bash
 # Download and run in 10 seconds
-wget https://raw.githubusercontent.com/ssecgroup/httpxray/main/httpxray-mini.py
+wget https://github.com/ssecgroup/httpxray-mini
 python httpxray-mini.py -u https://example.com
 ```
 
@@ -74,7 +74,7 @@ The full HTTPxray adds:
 
 **Full version**: `pip install httpxray[full]`
 
-###  ❤Support
+###  ❤ Support
 
 If you find it useful: `0x8242f0f25c5445F7822e80d3C9615e57586c6639` (ETH)
 
@@ -112,4 +112,4 @@ Questions? Feedback? Let me know!
 
 ---
 
-**Choose your platform and share HTTPxray-Mini!** 
+**Choose your platform and share HTTPxray-Mini! ❤️ for open sourcecommunity** 
